@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School"
 =======
 echo "ALX"
 >>>>>>> 502da9a... Starting to code today, so cool
+=======
+echo "ALX School is so cool"
+>>>>>>> a00f0d62bd3212bb61ff6bb103a9bd95f8e80bc7
